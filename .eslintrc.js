@@ -8,5 +8,6 @@ module.exports = {
     "no-undef": "off",
     "no-console": "off",
     "my-lint/method-deprecated": "warn",
+    "my-lint/method-conatain-integer": "error",
   },
 };
