@@ -7,6 +7,7 @@ module.exports = {
   rules: {
     "no-undef": "off",
     "no-console": "off",
+    "no-unused-vars": "off",
     "my-lint/method-deprecated": "warn",
     "my-lint/method-conatain-integer": "error",
     "my-lint/vaild-varibales": "warn"

@@ -31,5 +31,5 @@ withOutAnInterger()
 if not please raise a flag */
 
 const correctFormate="correctFormate"
-const WrongFormate="WrongFormate"
-console.log(correctFormate + WrongFormate)
+const wrongFormate="WrongFormate"
+//console.log(correctFormate + WrongFormate)

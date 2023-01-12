@@ -1,6 +1,6 @@
 ## Steps to add plugins in eslint
 pre-requities - we should have javascript running with eslit
-
+NOTE - use https://astexplorer.net/ get Abstract Syntax Tree
 1. Create packages folder,inside packages create eslintrule folder
 2. initilize node project inside eslintrule with name 'eslint-plugin-my-lint'. 
     Note - to create custom plugin name of plugin look like [eslint-plugin-{pulgin_name_here}]
