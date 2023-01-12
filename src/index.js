@@ -1,4 +1,4 @@
-/*1.let's consider payment functiion is deprected suggest user 
+/*1.let's consider payment function is deprecated suggest user 
 to use newPayment from eslint*/
 const payment=()=>{
   return "payment"
