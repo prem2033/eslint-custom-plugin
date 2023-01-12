@@ -9,5 +9,6 @@ module.exports = {
     "no-console": "off",
     "my-lint/method-deprecated": "warn",
     "my-lint/method-conatain-integer": "error",
+    "my-lint/vaild-varibales": "warn"
   },
 };
