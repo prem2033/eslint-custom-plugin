@@ -13,3 +13,6 @@ References - https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom
 7. Update .eslintric.js
 8. run eslint report
 ![eslitn-report](./images/eslint-report.png)
+
+
+Add fix - https://eslint.org/docs/latest/developer-guide/working-with-rules#applying-fixes
